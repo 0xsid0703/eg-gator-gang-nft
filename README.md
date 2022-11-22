@@ -12,4 +12,4 @@ These include: <p>
 # Key Links
 * <b>Website</b> - https://gatorgang.cc/
 * <b>Tofu NFT Marketplace</b> - https://tofunft.com/collection/gator-gang/items
-* <b>Smart Contract on BscScan</b> - https://bscscan.com/token/0x3aef41668fd611251cb81bb9ee743a3c0af11ac1
+* <b>BscScan Smart Contract</b> - https://bscscan.com/address/0x3aef41668fd611251cb81bb9ee743a3c0af11ac1#code
